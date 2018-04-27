@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity  {
                 .appendPath("3")
                 .appendPath("discover")
                 .appendPath("movie")
-                .appendQueryParameter("api_key","1a0853555a61a0fcb470cafde55ffe0e")
+                .appendQueryParameter("api_key",/* you api key */)
                 .build()
                 .toString();
 
