@@ -12,7 +12,7 @@ Android App that shows the most popular movies<br>
 
 * Make sure to **create a api key** <br> 
 
-* paste it in the MainActivity at -<br>
+* paste it in the MainActivity at *line 57* -<br>
  `.appendQueryParameter("api_key", *paste the api key here* )` <br>
 
 * Run app
